@@ -1,0 +1,3 @@
+DROP DATABASE OF EXISTS techBlog_db;
+
+CREATE DATABASE techBlog_db;
